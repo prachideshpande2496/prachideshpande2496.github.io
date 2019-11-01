@@ -1,2 +1,3 @@
-# prachideshpande2496.github.io
-Personal landing page
+# shradhit.github.io
+
+Minimum Landing Page
